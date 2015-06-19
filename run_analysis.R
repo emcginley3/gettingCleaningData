@@ -1,4 +1,6 @@
-## COMMENTS HERE!
+## This script combines the test and training accelerometer data
+## and creates a tidy data set with the mean and standard
+## deviation variables for each subject and each activity.
 
 ## PART 1: Load the input data and metadata into data tables
 featureNames <- read.table("UCI HAR Dataset/features.txt")
