@@ -14,10 +14,10 @@ The data is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojec
 
 ---------------------------------------------------------------------------------------------------------------------------
 This project contains:
-run_analysis.R : the R script run on the data set
-TidyData.txt : tidy data produced as the output of running run_analysis.R on the raw data
-CodeBook.md : the CodeBook reference to the variables in Tidy.txt
-README.md : analysis of the code in run_analysis.R
+- run_analysis.R : the R script run on the data set
+- TidyData.txt : tidy data produced as the output of running run_analysis.R on the raw data
+- CodeBook.md : the CodeBook reference to the variables in Tidy.txt
+- README.md : analysis of the code in run_analysis.R
 
 ---------------------------------------------------------------------------------------------------------------------------
 run_analysis.R does the following:
