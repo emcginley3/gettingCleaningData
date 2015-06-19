@@ -51,7 +51,7 @@ names(selectData) <- gsub("^t", "Time", names(selectData))
 names(selectData) <- gsub("^f", "Frequency", names(selectData))
 names(selectData) <- gsub("tBody", "TimeBody", names(selectData))
 names(selectData) <- gsub("-freq()", "Frequency", names(selectData), ignore.case = TRUE)
-dir(names(selectData) <- gsub("angle", "Angle", names(selectData))
+names(selectData) <- gsub("angle", "Angle", names(selectData))
 names(selectData) <- gsub("gravity", "Gravity", names(selectData))
 
 ## PART 5: Create an independent, tidy data set with the
